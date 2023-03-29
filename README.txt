@@ -24,6 +24,6 @@ Task 1: Run the preprocesssing00.py code
 This is a simple python script to convert nominal data into numeric 0 or 1 values based on mutually exclusive categories.
 
 
-Task 2: Run 
+Task 2: Run main.py
 This is Linear Regression Code to predict the age of an Abalone and evaluates the model.
 This includes the Mean Absolute Error and Mean Absolute Percentage Error for the train and test data.
